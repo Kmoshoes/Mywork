@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bbdwork\\KeystoneNests\\TodApi.csproj": {}
+    "D:\\Practice\\Mywork\\KeystoneNests\\TodApi.csproj": {}
   },
   "projects": {
-    "D:\\Bbdwork\\KeystoneNests\\TodApi.csproj": {
+    "D:\\Practice\\Mywork\\KeystoneNests\\TodApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bbdwork\\KeystoneNests\\TodApi.csproj",
+        "projectUniqueName": "D:\\Practice\\Mywork\\KeystoneNests\\TodApi.csproj",
         "projectName": "TodApi",
-        "projectPath": "D:\\Bbdwork\\KeystoneNests\\TodApi.csproj",
+        "projectPath": "D:\\Practice\\Mywork\\KeystoneNests\\TodApi.csproj",
         "packagesPath": "C:\\Users\\bbdnet2864\\.nuget\\packages\\",
-        "outputPath": "D:\\Bbdwork\\KeystoneNests\\obj\\",
+        "outputPath": "D:\\Practice\\Mywork\\KeystoneNests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bbdnet2864\\AppData\\Roaming\\NuGet\\NuGet.Config",
